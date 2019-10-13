@@ -10,5 +10,5 @@ Parallelised version.
 **sorting3.hs**   
 An effort to increase the efficiency. 
 
-**Report 16308185** 
+**Report 16308185**    
 Report describing all the techniques I tried, with discussions.
