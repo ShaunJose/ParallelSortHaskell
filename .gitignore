@@ -1,3 +1,4 @@
+# General haskell files
 dist
 dist-*
 cabal-dev
@@ -20,3 +21,15 @@ cabal.project.local
 cabal.project.local~
 .HTF/
 .ghc.environment.*
+
+# OSX stuff
+*/.DS_Store
+.DS_Store
+
+# Pages version of report
+Report.pages
+
+# Executable files
+sorting1
+sorting2
+sorting3
